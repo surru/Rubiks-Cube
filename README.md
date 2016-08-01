@@ -1,6 +1,6 @@
 # Rubik's Cube
 
-#### Package Contents :
+### Package Contents :
 
 >  **rubik.py**:         Library with Rubik's cube abstraction.
 
@@ -10,7 +10,7 @@
 
 > **Visualizer/**:      Contains the GUI for visualizing the working of rubik's cube.
 
-#### Visualisation :
+### Visualisation :
 
 For visualising the working of rubik's cube or pocket cube solver, follow the steps according to the OS you are using :-
 
@@ -24,7 +24,7 @@ For visualising the working of rubik's cube or pocket cube solver, follow the st
   Open terminal, locate the folder containing "rubik_solver_GUI.py" and type
   "python rubik_solver_GUI.py" to run.
 
-#### Notes :
+### Notes :
 
 - Requirement: python2.5 and above
 - The 2x2x2 rubik (Pocket Cube) has the same color scheme with the one from www.rubiks.com:
